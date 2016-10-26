@@ -3,6 +3,6 @@
 <html>
 	<head></head>
 	<body style="font-size:30px;">
-		<c1:hello info="Hello Sister" qty="10"/>
+		<c1:hello info="Hello Word" qty="10"/>
 	</body>
 </html>

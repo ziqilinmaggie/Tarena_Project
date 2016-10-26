@@ -4,6 +4,6 @@
 	<body style="font-size:30px; color:red;">
 		${system_error}
 
-		系统繁忙，稍后重试
+		System is busy right now, please try again!
 	</body>
 </html>

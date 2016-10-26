@@ -11,7 +11,7 @@
 	<body>
 		<div id="wrap">
 			<div id="top_content"> 
-				<%@include file="header.jsp" %><!-- 插指令 -->
+				<%@include file="header.jsp" %>
 				</div>
 				<div id="content">
 					<p id="whereami">
