@@ -2,13 +2,17 @@
 
 This repo is for all my course project comletede through Tarena. :octocat:
 
-###### Employee Management System
-Programming Languages: JAVA, SQL
-Front End Technologies: JSP, CSS, jQuery, Ajax, Java Script
-Tools: Tomcat, MySQL, MyEclipse, JDBC
-Description: This project implemented the function of list, add, delete, modify and search employees.
+#### Employee Management System
+###### Programming Languages: 
+JAVA, SQL
+###### Front End Technologies: 
+JSP, CSS, jQuery, Ajax, Java Script
+###### Tools: 
+Tomcat, MySQL, MyEclipse, JDBC
+###### Description: 
+This project implemented the function of list, add, delete, modify and search employees.
 
-###### Login System
+#### Login System
 Programming Languages: JAVA, SQL
 Front End Technologies: JSP, CSS, jQuery, Ajax, Java Script
 Tools: Tomcat, MySQL, MyEclipse, JDBC, Spring MVC framework, Mybatis-Spring
