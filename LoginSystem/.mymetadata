@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="spring08SpMB_login"
+  id="myeclipse.1438151972071"
+  context-root="/spring08SpMB_login"
+  j2ee-spec="5.0"
+  archive="spring08SpMB_login.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
